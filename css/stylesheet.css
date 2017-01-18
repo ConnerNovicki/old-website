@@ -60,6 +60,10 @@ h1 {
     margin: 0 auto;
 }
 
+.about img {
+    margin-left: 37%;
+}
+
 #project_title {
     font-size: 70px;
     margin-top: -5px;
