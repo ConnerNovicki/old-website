@@ -48,9 +48,13 @@ function draw() {
             break;
         case 3:
             environment.applyFlowField(flowField);
+            
+            // TODO: Flow field drawing needs debug.
+            /*
             if (debug) {
                 flowField.display();
             }
+            */
             break;
         case 4:
             environment.seekTarget(randomTarget);
