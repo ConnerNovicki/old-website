@@ -1,0 +1,13 @@
+.contact_info {
+    text-align: center;
+    font-size: 30px;
+}
+
+.contact_info a {
+    color: red;
+}
+
+.contact_info a:hover {
+    color: darkred;
+    text-decoration: underline;
+}

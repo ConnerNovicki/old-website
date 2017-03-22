@@ -1,0 +1,28 @@
+.port_container {
+  margin: 0 auto;
+  position: relative;
+  width: 700px;
+
+}
+
+.portfolio {
+  color: white;
+  text-align: center;
+  background: linear-gradient(grey, black);
+  width: 49%;
+  height: 360px;
+  float: left;
+  border-style: double;
+  border-radius: 5%;
+}
+
+.portfolio h1 {
+  font-size: 150%;
+}
+.portfolio a {
+  color: white;
+}
+
+.portfolio a:hover {
+  color: grey;
+}
