@@ -47,7 +47,7 @@ li a:hover {
 
 
 body {
-    background-image: url("background_image.png");
+    background: grey;
     color: white;
 }
 
