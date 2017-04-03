@@ -1,7 +1,5 @@
 #top_menu {
     color: white;
-    /*margin-left: -8px;
-    margin-right: -8px;*/
     margin: 0 auto;
     margin-top: -20px;
     height: 178px;
@@ -9,7 +7,6 @@
 
 #top_menu h1 {
     font-size: 50px;
-    font-family: sans-serif;
 }
 
 .table {
@@ -36,15 +33,12 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 20px;
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #113;
 }
-
-
 
 body {
     background: grey;
@@ -53,4 +47,8 @@ body {
 
 h1 {
     text-align: center;
+}
+
+#selected {
+  background: #115;
 }

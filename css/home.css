@@ -1,5 +1,5 @@
 .about {
-    width: 800px;
+
     font-size: 20px;
     margin: 0 auto;
 }
@@ -16,5 +16,6 @@
   background: linear-gradient(grey, black);
   padding: 20px;
   border-style: double;
-  border-radius: 5%;
+  width: 70%;
+  margin: 0 auto;
 }

@@ -1,38 +1,17 @@
-/*.downloads {
-    text-align: center;
-    font-size: 30px;
-    font-family: sans-serif;
-}
-
-.downloads a {
-    color: red;
-}
-
-.downloads a:hover {
-    color: darkred;
-    text-decoration: underline;
-}*/
-
-.container {
-  margin: 0 auto;
-  position: relative;
-  width: 500px;
-}
-
 .container_element {
   color: white;
   font-size: 40px;
-  text-align: center;
+  margin: 0 auto;
   background: linear-gradient(grey, black);
-  width: 200px;
-  float: left;
+  width: 300px;
+text-align: center;
   padding: 20px;
   border-style: double;
-  border-radius: 5%;
 }
 
 .container_element a {
   color: white;
+  text-decoration: none;
 }
 
 .container_element a:hover {
