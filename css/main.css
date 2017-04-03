@@ -1,3 +1,7 @@
+html {
+  overflow-y: scroll;  
+}
+
 #top_menu {
     color: white;
     margin: 0 auto;
