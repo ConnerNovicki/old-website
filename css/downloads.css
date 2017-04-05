@@ -4,7 +4,7 @@
   margin: 0 auto;
   background: linear-gradient(grey, black);
   width: 300px;
-text-align: center;
+  text-align: center;
   padding: 20px;
   border-style: double;
 }

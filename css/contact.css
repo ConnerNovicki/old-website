@@ -1,13 +1,19 @@
 .contact_info {
-    text-align: center;
-    font-size: 30px;
+  color: white;
+  font-size: 30px;
+  margin: 0 auto;
+  background: linear-gradient(grey, black);
+  width: 500px;
+  text-align: center;
+  padding: 20px;
+  border-style: double;
 }
 
 .contact_info a {
-    color: red;
+  color: white;
+  text-decoration: none;
 }
 
 .contact_info a:hover {
-    color: darkred;
-    text-decoration: underline;
+  color: grey;
 }

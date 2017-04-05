@@ -1,5 +1,5 @@
 html {
-  overflow-y: scroll;  
+  overflow-y: scroll;
 }
 
 #top_menu {
@@ -41,7 +41,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #113;
+    background-color: #454545;
 }
 
 body {
@@ -54,5 +54,5 @@ h1 {
 }
 
 #selected {
-  background: #115;
+  background: #606060;
 }
